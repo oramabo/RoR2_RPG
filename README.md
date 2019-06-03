@@ -16,12 +16,12 @@ same for all classes
 ### Stats
 * gain stats point upon level up
 * 
-| stat name | effect |
-| --------- | ------ |
-| STR       |        |
-| DEX       |        |
-| VIT       |        |
-| INT       |        |
+| stat name | effect       |
+| --------- | ------------ |
+| STR       | DMG          |
+| DEX       | AS           |
+| VIT       | Life         |
+| INT       | CD reduction |
 
 
 ## Tier 2
